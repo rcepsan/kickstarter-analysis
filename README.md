@@ -1,2 +1,2 @@
 # kickstarter-analysis
-Module 1 | Challenge Assignment 1
+Module 1 Challenge
